@@ -4,4 +4,4 @@ let colorePreferito = prompt("inserisci il tuo colore preferito");
 
 console.log("Dati utente", nomeUtente, cognomeUtente, colorePreferito)
 
-alert(nomeUtente +cognomeUtente +colorePreferito + 21);
+alert(nomeUtente + cognomeUtente + colorePreferito + "21");
